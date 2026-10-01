@@ -1,3 +1,3 @@
 # project01
-Name: Sumaiya NUsrat Tarin
+Name: Sumaiya Nusrat Tarin
 ID:0182420012101089 
